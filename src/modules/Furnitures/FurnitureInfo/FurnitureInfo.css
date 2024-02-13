@@ -1,0 +1,44 @@
+.furniture-info {
+  background-color: var(--greyColor);
+  height: 100vh;
+  padding: 20px;
+}
+
+.furniture-info .container {
+  position: absolute;
+  left: 50%;
+  top: 45%;
+  transform: translate(-50%, -50%);
+  width: 800px;
+  height: 400px;
+}
+
+.furniture-info .furniture-details {
+  background-color: var(--whiteColor);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.furniture-info .furniture-info .title {
+  font-size: 24px;
+  color: var(--blackColor);
+  margin-bottom: 10px;
+}
+
+.furniture-info .image {
+  width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.furniture-info .description {
+  color: var(--textColor);
+  margin-bottom: 10px;
+}
+
+.furniture-info .likes, .furniture-info .dislikes {
+  margin-right: 20px;
+}

@@ -1,0 +1,41 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: var(--blackColor);
+  color: var(--whiteColor);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  z-index: 1000;
+  height: 10vh;
+}
+
+.navbar img {
+  height: 60px;
+}
+
+.navbar__brand {
+  height: 32px;
+}
+
+.navbar__list {
+  list-style: none;
+  display: flex;
+}
+
+.navbar__item {
+  margin-right: 3rem;
+}
+
+.navbar__item a {
+  color: var(--whiteColor);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.navbar__item a:hover {
+  color: var(--blueColor);
+}

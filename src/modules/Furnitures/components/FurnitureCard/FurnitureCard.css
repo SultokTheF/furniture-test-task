@@ -1,0 +1,76 @@
+.furniture-info-card {
+  background-color: var(--greyColor);
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.furniture-image-container {
+  height: 400px;
+  overflow: hidden;
+  border-radius: 5px;
+}
+
+.furniture-image {
+  width: 100%;
+  height: auto;
+}
+
+.furniture-info-card h2 {
+  min-height: 50px;
+  font-size: 1.5rem;
+  color: var(--textColor);
+}
+
+.furniture-info-card p {
+  min-height: 50px;
+  font-size: 1rem;
+  color: var(--lightTextColor);
+  margin-bottom: 10px;
+}
+
+.likes-dislikes {
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
+  margin-bottom: 10px;
+}
+
+.likes-dislikes span {
+  display: flex;
+  align-items: center;
+  margin: 0 10px;
+  font-size: 0.9rem; 
+  color: var(--lightTextColor);
+}
+
+.likes-dislikes span i {
+  margin-right: 5px; 
+}
+
+.likes-dislikes .like-button, .likes-dislikes .dislike-button {
+  background-color: var(--blueColor);
+}
+
+.likes-dislikes .like-button:hover, .likes-dislikes .dislike-button:hover {
+  background-color: var(--darkBlueColor);
+}
+
+.go-to-furniture-button {
+  width: 100%;
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: var(--blueColor);
+  color: var(--whiteColor);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.go-to-furniture-button:hover {
+  background-color: var(--darkBlueColor);
+}

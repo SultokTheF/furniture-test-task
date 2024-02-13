@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "Современный диван",
+    "description": "Элегантный и стильный диван с минималистическим дизайном.",
+    "likes": 20,
+    "dislikes": 5,
+    "image": "https://img.archiexpo.com.ru/images_ae/photo-mg/150976-17051022.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Деревянный обеденный стол",
+    "description": "Прочный обеденный стол из высококачественной древесины.",
+    "likes": 15,
+    "dislikes": 3,
+    "image": "https://images.prom.ua/3841387335_w600_h600_3841387335.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Винтажное кресло",
+    "description": "Классическое кресло с винтажным видом, идеально подходит для уютных вечеров.",
+    "likes": 30,
+    "dislikes": 8,
+    "image": "https://electrobufet.ru/pictures/product/big/45215_big.png"
+  },
+  {
+    "id": 4,
+    "name": "Стеклянный журнальный столик",
+    "description": "Современный журнальный столик с стеклянной столешницей и металлическими ножками.",
+    "likes": 25,
+    "dislikes": 6,
+    "image": "https://royally.ru/Files/pt/picture/0118/54_1515823314.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Кожаное кресло-реклайнер",
+    "description": "Комфортное кресло-реклайнер с обивкой из натуральной кожи.",
+    "likes": 18,
+    "dislikes": 4,
+    "image": "https://ergoboss.ru/assets/catalog/chair/relax/relax-zuel.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Угловой секционный диван",
+    "description": "Просторный и комфортабельный угловой секционный диван для больших гостиных.",
+    "likes": 35,
+    "dislikes": 7,
+    "image": "https://roomdepot.in.ua/content/images/7/480x311l50nn0/uglovoy-divan-kontsept-sektsionnyy-17859920671391.png"
+  },
+  {
+    "id": 7,
+    "name": "Кровать из массива дерева",
+    "description": "https://www.kaufbei.tv/out/pictures/master/product/1/16856091148720845990411_m_en_hd_1.jpg",
+    "likes": 28,
+    "dislikes": 5,
+    "image": "https://img.archiexpo.com.ru/images_ae/photo-mg/150976-17051022.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Рустик журнальный столик",
+    "description": "Журнальный столик в стиле рустик, изготовленный из переработанной древесины.",
+    "likes": 22,
+    "dislikes": 4,
+    "image": "https://images.prom.ua/1905320232_w600_h600_1905320232.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Вельветовое акцентное кресло",
+    "description": "Роскошное акцентное кресло с обивкой из мягкого вельвета.",
+    "likes": 32,
+    "dislikes": 6,
+    "image": "https://lavsit.ru/wp-content/uploads/2018/12/Lavsit_vysokoe_kaminnoe_kreslo_velure.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Современный офисный стол",
+    "description": "Стильный и функциональный стол для современных домашних офисов.",
+    "likes": 26,
+    "dislikes": 3,
+    "image": "https://expert-mebel.com.ua/img/common/content/pb_ofisnyy-stol-sn-17-mat-4546.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Мягкое кресло-качалка",
+    "description": "Уютное кресло-качалка для релакса и отдыха.",
+    "likes": 12,
+    "dislikes": 2,
+    "image": "https://img.archiexpo.com.ru/images_ae/photo-mg/150976-17051022.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Массивный деревянный стол",
+    "description": "Массивный стол из натурального дерева, идеальный для больших семейных посиделок.",
+    "likes": 18,
+    "dislikes": 5,
+    "image": "https://img.archiexpo.com.ru/images_ae/photo-mg/150976-17051022.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Кожаный угловой диван",
+    "description": "Просторный угловой диван с обивкой из натуральной кожи.",
+    "likes": 23,
+    "dislikes": 6,
+    "image": "https://img.archiexpo.com.ru/images_ae/photo-mg/150976-17051022.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Стальной журнальный столик",
+    "description": "Современный журнальный столик с металлической конструкцией и стеклянной столешницей.",
+    "likes": 15,
+    "dislikes": 4,
+    "image": "https://img.archiexpo.com.ru/images_ae/photo-mg/150976-17051022.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Ретро кресло-качалка",
+    "description": "Ретро-стильное кресло-качалка для винтажного интерьера.",
+    "likes": 28,
+    "dislikes": 7,
+    "image": "https://img.archiexpo.com.ru/images_ae/photo-mg/150976-17051022.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Модульный диван",
+    "description": "Модульный диван с возможностью изменения конфигурации.",
+    "likes": 33,
+    "dislikes": 8,
+    "image": "https://img.archiexpo.com.ru/images_ae/photo-mg/150976-17051022.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Компактный офисный стол",
+    "description": "Компактный стол для домашнего офиса или рабочего места.",
+    "likes": 20,
+    "dislikes": 4,
+    "image": "https://img.archiexpo.com.ru/images_ae/photo-mg/150976-17051022.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Стул-барный стул",
+    "description": "Элегантный стул для барной стойки или кухонного острова.",
+    "likes": 16,
+    "dislikes": 3,
+    "image": "https://img.archiexpo.com.ru/images_ae/photo-mg/150976-17051022.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Подвесной подвесной кресло",
+    "description": "Стильное подвесное кресло для отдыха в саду или на балконе.",
+    "likes": 25,
+    "dislikes": 6,
+    "image": "https://img.archiexpo.com.ru/images_ae/photo-mg/150976-17051022.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Современный журнальный столик",
+    "description": "Современный журнальный столик с минималистическим дизайном.",
+    "likes": 19,
+    "dislikes": 4,
+    "image": "https://img.archiexpo.com.ru/images_ae/photo-mg/150976-17051022.jpg"
+  }
+]

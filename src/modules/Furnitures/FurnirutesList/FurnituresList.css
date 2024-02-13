@@ -1,0 +1,19 @@
+.furniture h1 {
+  margin-top: 15vh;
+  text-align: center;
+}
+
+.furniture hr {
+  max-width: 60%;
+  margin-bottom: 1%;
+  height: 5px;
+  background-color: var(--blackColor);
+}
+
+.furniture-list {
+  margin-left: 20%;
+  margin-right: 20%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Adjusted to auto-fit */
+  gap: 20px;
+}

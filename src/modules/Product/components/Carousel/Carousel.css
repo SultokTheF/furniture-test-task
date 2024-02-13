@@ -1,0 +1,47 @@
+/* Carousel container */
+.carousel-container {
+  width: 80%;
+  margin: auto;
+  background-color: aqua;
+}
+
+/* Slide container */
+.carousel-slide {
+  display: flex;
+  justify-content: center;
+}
+
+/* Slide image */
+.carousel-slide img {
+  max-width: 100%;
+  max-height: 400px; /* Adjust the height as needed */
+  object-fit: cover;
+}
+
+/* Dots */
+.slick-dots {
+  position: absolute;
+  bottom: 20px;
+  list-style: none;
+  display: flex !important;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+
+/* Dot */
+.slick-dots li button {
+  font-size: 12px;
+  color: var(--darkGreyColor);
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  margin: 0 5px;
+  padding: 0;
+  transition: all 0.3s ease;
+}
+
+/* Active Dot */
+.slick-dots li.slick-active button {
+  color: var(--blueColor);
+}
